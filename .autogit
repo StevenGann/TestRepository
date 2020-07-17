@@ -1,2 +1,6 @@
+#Config
+ARTIFACT: "Debug" Builds\Debug.zip {REPOSITORY}.{FORK}-Debug.{DATE}.zip
+ARTIFACT: "Release" Builds\Release.zip {REPOSITORY}.{FORK}-Release.{DATE}.zip
+
 #Build
 RUN-SCRIPT: build.bat
